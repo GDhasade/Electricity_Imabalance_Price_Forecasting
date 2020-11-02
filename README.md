@@ -23,7 +23,7 @@
 - 3.1 Data Merging
 - 3.2 Scaling Data i.e. All Features with MWh unit
 - 3.3 Handle Missing Values
-### -------- Part A: Identify Main Factors Influence Imbalance Price ----------------
+### -------- Part A: Identify Main Factors Influence Imbalance Price (Statistical Techniques) ----------------
 1. Identify Correlated Features With Pearson Correlation and Visualization
 2. Verify the factors with Spearman Correlation
 3. Select and Document Main Factors Influence Imbalance Price
