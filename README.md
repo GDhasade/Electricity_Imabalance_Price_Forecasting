@@ -42,9 +42,3 @@
 ### Part B:
 <img src="images/partb1.png" height="400">
 <img src="images/partb2.png" height="400">
-
-## Please Note:
-- To reduce the notebook size of images and result.
-- Comment some steps like .head() rows of dataframe, as those help during presentation.
-- Also plotly images are not working in offline, Hence I attached screenshots in markdown.
-- Thank you again for giving me this opportunity.
