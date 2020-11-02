@@ -20,9 +20,9 @@
 1. Load Required Datasets
 2. Data Discover or Data Understanding
 3. Data Pre-processing and Preparation
-3.1 Data Merging
-3.2 Scaling Data i.e. All Features with MWh unit
-3.3 Handle Missing Values
+- 3.1 Data Merging
+- 3.2 Scaling Data i.e. All Features with MWh unit
+- 3.3 Handle Missing Values
 ### -------- Part A: Identify Main Factors Influence Imbalance Price ----------------
 1. Identify Correlated Features With Pearson Correlation and Visualization
 2. Verify the factors with Spearman Correlation
